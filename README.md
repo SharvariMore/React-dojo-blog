@@ -1,2 +1,2 @@
-This app is built on React framework
-In this app I have developed a blog site that includes all the basic functionalities of React framework
+#React-dojo-blog
+This blog site, built with the React framework, includes all its basic functionalities.
